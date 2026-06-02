@@ -1,0 +1,5 @@
+-- Removes all records with a score less than or equal to 5
+
+-- Delete low-scoring records
+DELETE FROM second_table
+WHERE score <= 5;

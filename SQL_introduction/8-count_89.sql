@@ -1,0 +1,6 @@
+-- Displays the number of records with id = 89
+
+-- Count records where id equals 89
+SELECT COUNT(*)
+FROM first_table
+WHERE id = 89;
