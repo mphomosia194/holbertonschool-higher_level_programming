@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Basic JSON serialization and deserialization module."""
+"""Module for basic JSON serialization and deserialization."""
 
 import json
 
